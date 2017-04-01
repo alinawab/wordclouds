@@ -1,0 +1,7 @@
+days of the week
+Sunday
+Monday
+Tue
+Wed
+Thu
+Fri
